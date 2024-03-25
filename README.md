@@ -22,8 +22,9 @@ Ce projet consiste en une application simple réalisée en utilisant Tkinter, un
 
 ## Configuration requise
 
-- Python 3.x
-- Tkinter (généralement inclus avec les distributions Python)
+### - Python 3
+### - Tkinter
 
+## Exemple d'utilisation
 ![image](https://github.com/Isaac955/Jeux-Olympiques/assets/123961485/1bed70ac-1bb5-40e2-81b0-f121e0b07ece)
 
